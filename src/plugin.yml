@@ -1,0 +1,4 @@
+name: DodgePlugin
+main: ca.como89.dodgeplugin.DodgePlugin
+authors: [como89]
+version: 1.0
